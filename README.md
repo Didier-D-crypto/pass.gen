@@ -41,4 +41,4 @@ For companies that handle large amounts of sensitive data, weak passwords can po
 
 * The URL of the GitHub repository
 
-
+ https://github.com/Didier-D-crypto/pass.gen.git
