@@ -1,4 +1,4 @@
-# Unit 03 JavaScript Homework: Password Generator
+# JavaScript Application: Password Generator
 
 ## Description
 
